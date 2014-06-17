@@ -57,15 +57,15 @@ CSS
   10. CSS selectors are not tag qualified
   11. CSS properties are in the following order:
 
-element {
-	DISPLAY AND VISIBILITY
-	POSITIONING
-	HEIGHT, WIDTH, FLOAT
-	FONT ATTRIBUTES
-	BORDER STYLES
-	BACKGROUND
-	MISCELLANY
-	MEDIA QUERY OVERRIDES
+element { <br />
+	DISPLAY AND VISIBILITY <br />
+	POSITIONING <br />
+	HEIGHT, WIDTH, FLOAT <br />
+	FONT ATTRIBUTES <br />
+	BORDER STYLES <br />
+	BACKGROUND <br />
+	MISCELLANY <br />
+	MEDIA QUERY OVERRIDES <br />
 }
 
 JavaScript
