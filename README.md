@@ -6,7 +6,7 @@ Code Review Checklist
 General
 
   1. Site uses a cache buster for expiring .js, .css, and images
-  2. JavaScript and CSS is minified and concatenated into logical groupings
+  2. JavaScript and CSS is minified
   3. Images have been optimized by ImageOptim (http://imageoptim.com/)
 
 Markup
@@ -22,7 +22,7 @@ Markup
   9. Tables are only used to display tabular data
   10. Element IDs are unique
   11. Code validates against the W3C validator
-  12. DOM nesting depth does not exceed 12 levels
+  12. DOM nesting depth does not exceed 6 levels
   13. Total page weight does not exceed client requirements (e.g. 1000kb)
   14. TItle case is used for headers/titles and forced to all caps using the CSS declaration text-transform: uppercase;
   15. Where text is included via images, CSS image replacement is used.
@@ -58,14 +58,14 @@ CSS
   11. CSS properties are in the following order:
 
 element { <br />
-	DISPLAY AND VISIBILITY <br />
-	POSITIONING <br />
-	HEIGHT, WIDTH, FLOAT <br />
-	FONT ATTRIBUTES <br />
-	BORDER STYLES <br />
-	BACKGROUND <br />
-	MISCELLANY <br />
-	MEDIA QUERY OVERRIDES <br />
+  DISPLAY AND VISIBILITY <br />
+  POSITIONING <br />
+  HEIGHT, WIDTH, FLOAT <br />
+  FONT ATTRIBUTES <br />
+  BORDER STYLES <br />
+  BACKGROUND <br />
+  MISCELLANY <br />
+  MEDIA QUERY OVERRIDES <br />
 }
 
 JavaScript
