@@ -37,7 +37,7 @@ Forms
 Accessibility
 
   1. Page has a proper outline (H1-H6 order)
-  2. Alt attributes exist on all <img> elements
+  2. Alt attributes exist on all &lt;img&gt; elements
   3. Video is accompanied by a transcript and closed captioning
   4. Code validates against WCAG priority level 1 and 2
   5. Events and styles applied to :hover are also applied to :focus
@@ -78,12 +78,12 @@ JavaScript
   6. jQuery selectors are performant
   7. jQuery objects are cached
   8. Event delegation is used for binding events to 2 or more elements, or ajax'd elements
-  9. Script blocks are placed before the closing <body> tag
+  9. Script blocks are placed before the closing &lt;body&gt; tag
   10. Code has been run through JSLint (jslint.com) or JSHint (jshint.com)
 
 SEO
 
-  1. Uses a valid <title> element with a valid text node
+  1. Uses a valid &lt;title&gt; element with a valid text node
   2. Uses description meta data
   3. Uses visible header tags
 
