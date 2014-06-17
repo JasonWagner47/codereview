@@ -84,7 +84,7 @@ Mobile
  
 Code Base Checks
  
-  1. All code is checked into SVN or other source code repository
+  1. All code is checked into BitBucket or other source code repository
   2. Unused sections of code are removed
   3. Code is commented where appropriate
   4. Client-side code is free of any references to development and staging environments, URLs, or other development settings (e.g. dev Facebook application IDs)
