@@ -55,7 +55,18 @@ CSS
   8. CSS selectors gets more specific across files
   9. CSS shorthand is used for properties that support it
   10. CSS selectors are not tag qualified
-  11. CSS properties are alphabetical (except for vendor-specific properties) (Why? See: Parable of the brown M&Ms)
+  11. CSS properties are in the following order:
+
+element {
+	DISPLAY AND VISIBILITY
+	POSITIONING
+	HEIGHT, WIDTH, FLOAT
+	FONT ATTRIBUTES
+	BORDER STYLES
+	BACKGROUND
+	MISCELLANY
+	MEDIA QUERY OVERRIDES
+}
 
 JavaScript
 
@@ -103,6 +114,3 @@ Code Review Tools
   8. Accessibility: SortSite
   9. Accessibility: JAWS/NVDA/VoiceOver
   10. Accessibility: CynthiaSays
-
-
-hello
