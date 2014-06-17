@@ -31,7 +31,7 @@ Forms
  
   1. All user input is “sanitized”
   2. Form elements are paired with labels elements containing the for attribute
-  3. Form label/input pairs are wrapped with a block level element (e.g. <p>)
+  3. Form label/input pairs are wrapped with a block level element (e.g. paragraph)
   4. Forms are logically arranged within fieldsets
  
 Accessibility
