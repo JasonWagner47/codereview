@@ -1,5 +1,5 @@
 
-SpireMedia Code Review Checklist
+Code Review Checklist
 
 ==========
 
