@@ -55,7 +55,8 @@ CSS
   8. CSS selectors gets more specific across files
   9. CSS shorthand is used for properties that support it
   10. CSS selectors are not tag qualified
-  11. CSS properties are in the following order:
+  11. Avoid using !important. Make your class more specific.
+  12. CSS properties are in the following order:
 
 element { <br />
   DISPLAY AND VISIBILITY <br />
