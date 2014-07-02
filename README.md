@@ -90,9 +90,8 @@ SEO
 
 Mobile
 
-  1. Functions with JavaScript turned off
-  2. Image file sizes do not exceed 70kb
-  3. Appropriate use of HTML inputs (e.g. email, phone, etc) to trigger corresponding on-screen keyboards
+  1. Image file sizes do not exceed 500kb
+  2. Appropriate use of HTML inputs (e.g. email, phone, etc) to trigger corresponding on-screen keyboards
 
 Code Base Checks
 
