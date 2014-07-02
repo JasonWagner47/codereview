@@ -56,18 +56,7 @@ CSS
   9. CSS shorthand is used for properties that support it
   10. CSS selectors are not tag qualified
   11. Avoid using !important. Make your class more specific.
-  12. CSS properties are in the following order:
-
-element { <br />
-  DISPLAY AND VISIBILITY <br />
-  POSITIONING <br />
-  HEIGHT, WIDTH, FLOAT <br />
-  FONT ATTRIBUTES <br />
-  BORDER STYLES <br />
-  BACKGROUND <br />
-  MISCELLANY <br />
-  MEDIA QUERY OVERRIDES <br />
-}
+  12. CSS properties are organized either alphabetically OR [by intent](http://css-tricks.com/poll-results-how-do-you-order-your-css-properties/).
 
 JavaScript
 
