@@ -7,7 +7,7 @@ General
 
   1. Site uses a cache buster for expiring .js, .css, and images
   2. JavaScript and CSS is minified
-  3. Images have been optimized by ImageOptim (http://imageoptim.com/)
+  3. Images that have been optimized by [ImageOptim](http://imageoptim.com/)
 
 Markup
 
