@@ -22,10 +22,10 @@ Markup
   9. Tables are only used to display tabular data
   10. Element IDs are unique
   11. Code validates against the W3C validator
-  12. DOM nesting depth does not exceed 6 levels
+  12. DOM nesting depth is carefully managed, and unnecessary elements are removed
   13. Total page weight does not exceed client requirements (e.g. 1000kb)
   14. TItle case is used for headers/titles and forced to all caps using the CSS declaration text-transform: uppercase;
-  15. Where text is included via images, CSS image replacement is used.
+  15. Where text is included via images, CSS image replacement is used
 
 Forms
 
